@@ -1,7 +1,7 @@
 # miscanciones1 - Trabajo 16 de mayo de 2021 - Curso Tópicos II Gestión de la Calidad de Software
 
 ## DESCRIPCIÓN
-El proyecto es un catálogo de canciones que estan almacenadas en los medios: CD´s, cassettes y discos de vinilo
+El proyecto permite  crear un catálogo de  albumes musicales en medios: discos  de vinilo, casetes y CDs.
 
 ## INTEGRANTES
 * Cabrera García César Augusto
